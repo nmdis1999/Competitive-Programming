@@ -3,3 +3,4 @@ This repository consist of questions I am practicing for various algorithms and 
 
 # Some important editorials :
 Dyanamic Programming with bitmask -> https://codeforces.com/blog/entry/337
+Euler and Hamilton cycle -> https://courses.lumenlearning.com/math4liberalarts/chapter/introduction-euler-paths/
