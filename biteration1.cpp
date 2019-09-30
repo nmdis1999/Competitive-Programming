@@ -10,6 +10,7 @@ int main()
         cin >> n;
         map<int,int> m;
         ll a[101];
+
         for (ll i = 1; i <= n; i++)
         {
             cin >> a[i];
@@ -25,8 +26,8 @@ int main()
             }
         }
 
-        for (int i = 1; i <= n; i++)
-            cout << m[a[i]]<<" ";
+        for (auto i : a)
+            cout << i.second<<" ";
         cout << endl;
     }
     return 0;

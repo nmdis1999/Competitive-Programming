@@ -14,7 +14,6 @@ You can also run a binary search and solve each query in O(logMAX).
 #define ll long long
 using namespace std;
 ll q, c, m, x;
-const int MAX = (int)1e9;
 int main()
 {
     cin >> q;

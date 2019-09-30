@@ -31,7 +31,7 @@ int main()
             cout <<f[i]<<" ";
         for (ll i = 1; i <= n; i++)
             cout <<fact[i]<<" ";*/
-        cout << f[n] % MOD<< endl;
+        cout << f[n] % MOD<<"\n";
     }
     return 0;
 }
